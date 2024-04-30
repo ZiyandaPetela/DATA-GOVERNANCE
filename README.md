@@ -76,6 +76,81 @@
 * In the absence of formalized data governance, organizations will continue to struggle in achieving these advantages and may, in fact, suffer negative consequences. For example, poor-quality data that is not current, inaccurate, and incomplete can lead to operating inefficiencies and poor decision-making.
 
 
+# CREATING A DATA GOVERNANCE PROGRAM
+* The basic steps for creating a data governance program consist of the following.
+* defining the vision, goals, and benefits.
+* Analyzing the current state of data governance and management.
+* Developing a proposal based on the first two steps, including a draft plan.
+* Achieving leadership approval.
+* Designing and developing the program.
+* Implementing the program.
+* Monitoring and measuring performance.
+* Maintaining the program.
+*  data governance is achieved through a set of common elements.
+# COMMON ELEMENTS OF A DATA GOVERNANCE PROGRAM
+![image](https://github.com/ZiyandaPetela/DATA-GOVERNANCE/assets/123364433/28400cab-b8bc-4df1-b1f0-6c80b5eddea4)
+
+# DEVELOPING A DATA GOVERNANCE FRAMEWORK
+* Can't buy a data governance program off the shelf.
+* Regardless of how and to what degree you implement the elements of a data governance program, you’ll need a basic set of guiding concepts and a structure in which to apply them. This is called the data governance framework.
+* there are many framework variations to choose from, including ISACA’s Control Objectives for Information and Related Technologies (COBIT) IT governance framework, they share some common components that address people, processes, and technology.
+
+# Qualities of a data governance framework
+
+![image](https://github.com/ZiyandaPetela/DATA-GOVERNANCE/assets/123364433/7c0fcb88-211a-462a-acbf-e7521319a913)
+
+* Leadership and Strategy
+* data governance program must be aligned with the strategy of the organization.
+* The disconnect between business goals and data governance is the number one reason that data governance programs fail.
+*  When mapping organizational strategy to data governance, you need the support, agreement, and sponsorship of senior leadership
+
+*  Roles and Responsibilities
+*  Your data governance program will only be possible with the right people doing the right things at the right time.
+*  Every data governance framework includes the identification and assignment of specific roles and responsibilities, which range from the information technology (IT) team to data stewards.
+*  While specific roles do exist, your organization must understand that data governance requires responsibilities from nearly everyone.
+
+
+*  Policies, Processes, and Standards
+* Policies, processes, and standards must include accountability and enforcement components; otherwise it’s possible they will be dead on arrival.
+*  At the heart of every data governance program are the policies, processes, and standards that guide responsibilities and support uniformity across the organization.
+*  Each of these must be designed, developed, and deployed. Depending on the size and complexity of the organization, this can take significant effort.
+
+*  Metrics
+*  The data governance program must have a mechanism to measure whether it is delivering the expected results.
+*   Capturing metrics and delivering them to a variety of stakeholders is important for maintaining support, which includes funding.
+*   You’ll want to know if your efforts are delivering on the promise of the program.
+*   Based on the metrics, you and your team can make continuous improvements (or make radical changes) to ensure that the program is producing value.
+
+*   Tools
+* a large marketplace now exists for tools in support of data governance and management. These include tools for master data management, data catalogs, search, security, integration, analytics, and compliance.
+* many data science-related tools have made leaps in terms of incorporating ease-of-use and automation.
+* What used to be complex has been democratized and empowered more team members to better manage and derive value from data.
+
+* Communications and Collaboration
+* With the introduction of data governance and the ongoing, sometimes evolving, requirements, high-quality communications are key.
+* This takes many forms, including in-person meetings, emails, newsletters, and workshops.
+*  Change management, in particular, requires careful attention to ensure that impacted team members understand how the changes brought about by the data governance program affect them and their obligations.
+*  A large number of disparate stakeholders need to work together in order to effectively govern data.
+*  Collaboration is essential and can be the difference between success and failure. Good collaboration requires a positive culture that rewards teamwork.
+*   It also requires clear channels between teams, such as regular meetings. Online collaboration platforms are increasingly being used too.
+
+# PREPARING FOR DATA GOVERNANCE
+* Data governance requires careful treatment, beginning with understanding whether an organization is ready to accept it.
+* if you and your team are diligent, there are some traps that you can avoid
+* Being ready as an organization involves determining the extent to which a data culture exists.
+* Intuitively can conclude that an immature, reactive data culture, where data is simply handled in an ad hoc manner, is an entirely different experience than a sophisticated data-driven culture.
+* There are other prerequisites for data governance success, these include ensuring that the organization’s strategy is fully aligned with the proposed program.
+
+* What is data culture?
+* Data culture is an organizational culture of data-driven decision making. Organizations build a data culture because they want to make better decisions
+* In a data culture, by contrast, evidence and reason are valued above all else.
+* It doesn’t matter who’s talking or what tone they’re using — what matters is whether the argument makes sense given the data.
+* Consensus and hierarchical cultures generally aren’t intentionally selected as preferred alternatives to data culture.
+* Rather, they emerge because they’re easy. Y
+*  But to be able to look at the data for answers, the data must be readily available, trustworthy, and interpretable.
+
+* Assessing the Data Culture
+* 
 
 
 
