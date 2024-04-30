@@ -58,6 +58,23 @@
 * As a data governance practitionerbe will be  operating in both the data and information governance worlds each day.
 * must understand the context of data, a concept known as data intelligence, and the desired business outcomes, to complement data governance efforts in a valuable manner.
 
+* The Value of Data Governance
+* Puts in place processes and policies to leverage the data’s value and reduce data risks, that organization is demonstrating a strong commitment to data controls and accountabilities. In other words, that organization values data governance.
+* Data governance is driven by a desire to increase the value of data and reduce the risks associated with it. It forces a leap from an ad hoc approach to data to one that is strategic in nature.
+* main advantages achieved by good data governance include:
+* Improved data quality
+* Expanded data value
+* Increased data compliance
+* Improved data-driven decision-making
+* Enhanced business performance
+* Greater sharing and use of data across the enterprise and externally
+* Increased data availability and accessibility
+* Improved data search
+* Reduced risks from data-related issues
+* Reduced data management costs
+* Established rules for handling data
+* In the absence of formalized data governance, organizations will continue to struggle in achieving these advantages and may, in fact, suffer negative consequences. For example, poor-quality data that is not current, inaccurate, and incomplete can lead to operating inefficiencies and poor decision-making.
+
 
 
 
