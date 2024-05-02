@@ -180,8 +180,66 @@
 *  Fundamental data skills exist for the data governance journey.
 *  The IT organization is capable and resourced to support the program.
 
+# CHAPTER 2 : EXPLORING A WORLD OVERFLOWING WITH DATA 
+* Each organization may have resource limitations that dictate the terms of their decision-making and actions
+* The volume of data amassing may be the result of  day-to-day activities, products, and services, the data they have access to, or the data created and delivered by their customers and partners. Whatever the reason and source, this is the age of big data.
+* overned and managed correctly, data has the potential to improve an organization’s operations and performance and increase profits and market share.
 
+# Defining Data
+* Data has a specific meaning and it’s really important to be clear on the definition
+*  information is about knowledge and insights
 
+*  Why all the focus on data?
+*  Data refers to collections of digitally stored units, in other words, stuff that is kept on a computing device.
+*  Single units of data are traditionally referred to as datum and multiple units as data.
+*   the term data is often used in singular and plural contexts
+*   Data is also defined based on its captured format.
+*   Categories of Data :
+*   Structured: Data that has been formatted to a set structure; each data unit fits nicely into a table in a database. It’s ready for analysis. Examples include first name, last name, and phone number.
+*   Unstructured: Data that are stored in a native format must be processed to be used. Further work is required to enable analysis. Examples include email content and social media posts.
+*   Semi-structured: Data that contains additional information to enable the native format to be searched and analyzed.
+*   Units of data are largely worthless until they are processed and applied
+* The value that data can bring to so many functions, from product development to sales, makes it an important asset.
 
+# The Zettabyte Era
+*  We have two data types, qualitative and quantitative.
+*  Qualitative which is Categorical, is non-numerical/descriptive, has two categories which are Nominal(Non-ordered) i.e ethnicity,hair color , and Ordinal (orderly) i.e class grades, date range opinions.
+*  Quantitative which is Numerical , uses numbers. Has two categories which are Discrete(Countable) i.e number of facebook likes,final score of in football, and Continous(Measurable) i.e weight,temperature.
+*  The "Zettabyte Era" refers to the current period in which digital data is measured in zettabytes.
+*  A zettabyte is a unit of digital information storage equivalent to 1 sextillion bytes, or 1,000,000,000,000,000,000,000 bytes.
+*   With the explosion of digital content, from videos and images to social media posts and sensor data, the amount of data generated and consumed globally has been rapidly increasing.
+*   This era signifies not only the sheer volume of data being produced but also the challenges and opportunities it presents.
+*   Managing, analyzing, and making sense of such vast amounts of data has become a critical task for businesses, governments, and individuals alike.
+*    Technologies like big data analytics, artificial intelligence, and machine learning have emerged to help harness the potential of this data deluge.
+*    The Zettabyte Era is characterized by the ubiquity of data in everyday life, the rise of data-driven decision-making across industries, and the ongoing quest to innovate and develop new tools and strategies to effectively navigate this data-rich landscape.
+*    It underscores the importance of digital literacy, data privacy, and cybersecurity in an increasingly interconnected world.
 
+# From Data to Insight
+* Data that is never used is about as useful as producing reports that nobody reads. The assumption is that you have data for a reason.
+*  Data must be converted to information to have meaning.
+*  Information is data in context
+*  The Differences Between Data and Information
+*  Data is Raw and are Items such as characters, words, pictures, and numbers that have no meaning in isolation. In data there is no analysis dependency
+*  Data is Unorganized and not dependent on context
+![image](https://github.com/ZiyandaPetela/DATA-GOVERNANCE/assets/123364433/4d1ba019-60d4-4961-a259-82eee5716786)
+* Not typically useful alone
+*  Information is Processed and is Data that is organized and given context to have meaning and Dependent on the analysis of data
+*  information is organized and dependent on context
+* Useful alone
 
+* When we apply information coupled with broader contextual concepts, practical application, and experience, it becomes knowledge.
+*  Knowledge is actionable. It may also give relevance to the saying that- knowledge is power.
+*  With wisdom, we know what to do with knowledge and can determine its contextual validity.
+*   We could have stopped at knowledge, but wisdom takes us to the ultimate destination derived from data. All wisdom includes knowledge, but not all knowledge is wisdom.
+*    insight is an outcome that can emerge from knowledge but is best demonstrated through a combination of knowledge and wisdom.
+*  With insight, we’ve gained a deeper understanding of something and have the skills to think or see it differently.
+
+  # Journey fro data to insight
+  ![image](https://github.com/ZiyandaPetela/DATA-GOVERNANCE/assets/123364433/61beb583-7c54-4099-bdda-77b8fdb48991)
+  * the data-information-knowledge-wisdom (DIKW) hierarchy
+  *Data leads to insight 
+  * ![image](https://github.com/ZiyandaPetela/DATA-GOVERNANCE/assets/123364433/c5aac371-
+    0560-4f52-b79d-929d00a0c6c1)
+* the best outcome can’t be guaranteed no matter which processes, tools, or skills are used, good practices such as the right level of data governance can absolutely lead to better results.
+
+  
