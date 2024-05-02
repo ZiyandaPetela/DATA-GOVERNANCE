@@ -601,3 +601,79 @@ Smaller, logically arranged data can be the way to make sense of big data. In so
 * Metrics:  It’s largely true, what gets measured gets managed. In developing policies in support of data governance, you have to consider how each is measured. For example, if a policy states that there shouldn’t be more than five risk events per month such as a regulatory requirement being out of compliance, then, assuming the metric is high to begin with, it should decrease over time.
 
 # CHAPTER FOUR : TRANSFORMING THROUGH DATA
+*  data monetization is when you acknowledge that data is an asset, you expect that data to bring economic benefits.
+
+ ## Examining the Broader Value of Data
+* The ability of team members to access data that they need for their work, without having to rely on specialists, is called data democratization.
+* As organizations grow and more systems are employed, eventually no single person knows what data is available and where it is in the enterprise.
+*  Without this knowledge, the ability to properly govern your data and leverage its value is greatly hampered. Without deliberate actions, data democratization becomes elusive.
+*   data silo is a data repository controlled by an entity in an organization but not frequently shared or known by other parts of the business.
+*   Data silos hinder business efficiencies because they reduce collaboration and increase data inconsistencies.
+*    In addition, they are a source of risk, including security and regulatory issues.
+* Data governance helps eliminate unnecessary data siloes and makes data discoverable and available whenever and wherever it adds value.
+* Data catalogs, discussed in this chapter, are an essential way that data governance can help solve these limitations.
+* Unfortunately, most organizations don’t automatically come with a universal search engine that can help locate and serve up any type of data or information stored in the enterprise.
+*  Being able to tame and explore data sprawl — a term for the myriad of data types and sources that most businesses grapple with today — is not easily achieved without investing specialized effort.
+*  The ease at which you access data from across the Internet via a browser is seldom the experience in a business.
+*  In a weird twist, it’s often easier to find information about your organization by Googling it rather than using your own internal search systems. Of course, if the data is protected behind your organization’s firewall, a public search engine won’t help either.
+*  Knowing what data is available is essential for the following reasons:
+*  Better informed decision-making.
+*  Ensuring compliance and regulatory requirements.
+*  Lower costs by avoiding duplicate system and data efforts.
+*  Improved data analytics and reporting
+*  Higher performing systems
+*  More efficient operations
+*  Reducing data inconsistencies across the enterprise.
+*  Fortunately, the vendor community is ready to help you build your internal search capabilities.
+
+# Data Catalogs
+* You can take a few approaches to assist your organization so that your team members can find data.
+*  One option involves the creation of an enterprise search engine.
+*   It’s certainly possible, but not easy, and will face some limitations such as the discoverability of confidential data that is deliberately siloed.
+*   In addition, a search engine won’t necessarily provide insights on whether data is available, current, accurate, or complete.
+*   Its common purpose is simply to provide you with the location of the data.
+* Another, increasingly popular, method of data discoverability is the creation of an enterprise data catalog.
+* Like a store catalog that categorizes products and includes details such as availability and price, a data catalog lists the availability of data sets and includes a wide range of valuable details about that data.
+
+ ####  three essential benefits of data catalogs are:
+ * Finding data: Helps users identify and locate data that may be useful.
+ * Understanding data:  Answers a wide variety of data questions such as its purpose and who uses it.
+ * Making data more useful:  Creates visibility, describes value, and provides access to information.
+ * a data catalog delivers a comprehensive inventory that provides an enterprise view of all data.
+ * This view provides essential insight that helps with leveraging data value and provides a robust tool to assist with data governance. 
+#### A basic orientation of the components of a data catalog
+![image](https://github.com/ZiyandaPetela/DATA-GOVERNANCE/assets/123364433/6d7ef8c6-87b4-4574-a4bc-1ffbec3c1ae6)
+* A data catalog is more than just a list of all data sets.for many organizations, this feature alone would add enormous value.
+*  What makes a data catalog particularly valuable is that it contains data about the data. It’s called metadata.
+*  This content can be curated manually and also by automated processes which can acquire it from other sources.
+*   Artificial intelligence (AI) is now playing a growing role in the latter.
+*   A data catalog can contain three types of metadata: technical, business, and operational.
+*   Technical metadata:  Data about the design of a data set such as its tables, columns, file names, and other documentation related to the source system.
+*   Business metadata:  Organizational data such as a business description, how it is used, its relevancy, an assessment of data quality, and users and their interactions.
+*   Operational metadata:  Data such as when the data was last accessed, who accessed it, and when was it last backed up.
+*   For a large number of stakeholders ranging from data analysts to data stewards, a data catalog presents many advantages.
+*    Primarily, the ability to find data tops the list. But it provides much more than that.
+  ##### with a data catalog, an organization can:
+* Know what data it has (and by extension, know what data is missing).
+* Reduce data duplication.
+* Increase operational efficiencies and innovation.
+* Understand data quality.
+* Manage compliance.
+* Enjoy cost savings from improved operations.
+
+* A well-managed data catalog can be transformational for an organization. The effort to create and maintain one should not be understated.
+* But, without a doubt, a data catalog is often the basis for delivering successful data governance and data management.
+
+# Case Study: Unlocking Data Silos With a Data Catalog
+### From Data to Insights
+* deriving insights is almost the entire point of collecting data.
+* Insight provides a deep understanding of something and is the ultimate positive manifestation of data.
+* It has the highest value to an organization because it can support decisions and drive actions.
+* 
+
+
+
+
+
+
+
