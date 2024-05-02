@@ -385,7 +385,7 @@ Smaller, logically arranged data can be the way to make sense of big data. In so
 * Data isn’t something that just concerns the data analytics team or the information technology department. It’s also not something that is limited to decision-makers and leaders.
 * Data matters to everyone.
 
-###Operations
+### Operations
 * Business operations concern themselves with a diverse set of activities to run the day-to-day needs and drive the mission of an organization.
 * Each business has different needs, and operational functions reflect these specific requirements.
 *  Some core functions show up in almost every organization. Consider payroll, order management, and marketing.
@@ -466,7 +466,7 @@ Smaller, logically arranged data can be the way to make sense of big data. In so
 * By continuously monitoring the quality of the data in your organization, opportunities and issues may be revealed in a timely manner.
 * Then, if deemed appropriate, actions can be prioritized.
 
-  ### Insight Management
+### Insight Management
 * Data forms the building blocks of many business functions. In support of decision-making — arguably its most important value — data is the source for almost all insight.
 * As a basic definition, business insight is sometimes referred to as information that can make a difference.
 * It’s not enough to simply collect lots of data and expect that insight will suddenly emerge.
@@ -497,7 +497,7 @@ Smaller, logically arranged data can be the way to make sense of big data. In so
 * While reports do empower leaders and give them more tools, they don’t guarantee the right decisions.
 *  Knowing something is not the equivalent of making the right choices at the right time.
 
-  ### Other Roles for Data
+ ### Other Roles for Data
 *  Artificial intelligence (AI):  Data is considered the fuel of AI. It requires a high volume of good data. With huge quantities of quality data, the outcomes of AI improve.
 *  It’s from the data that AI learns patterns, identifies relationships, and determines probabilities.
 *   In addition, AI is being used to improve the quality and use of data in organizations.
@@ -508,7 +508,7 @@ Smaller, logically arranged data can be the way to make sense of big data. In so
 *    Later, that same data set may be used by the marketing team to create awareness about other products and services.
 *    These are two different teams with different goals using the same data. Data reuse can be considered a positive given that it reduces data collection duplication and increases the value of data to an organization, but it must be managed with care so that it doesn’t break any data use rules.
 
-#Improving Outcomes with Data
+# Improving Outcomes with Data
 *  It begins with recognizing that data is an organizational asset
 *  This simply means that it’s something that brings economic value to the organization.
 *  It’s clear to see this when it is pointed out, but many team members don’t yet look at data this way.
@@ -669,8 +669,84 @@ Smaller, logically arranged data can be the way to make sense of big data. In so
 * deriving insights is almost the entire point of collecting data.
 * Insight provides a deep understanding of something and is the ultimate positive manifestation of data.
 * It has the highest value to an organization because it can support decisions and drive actions.
-* 
+* Whether an organization uses insight to support decisions or drive actions is a choice.
+* Most organizations will do some of both, but when insights are used primarily to drive action, the value of the underlying data is truly realized.
+*  Put another way, actionable data is the most valuable data to an organization.
+*  if you can’t use your data to make better decisions and drive your organization forward, the data may just be worthless.
 
+
+#### Acquiring and applying insight from data means defining the following:
+* Context: Understanding the environment and objectives of the outcome
+* Need: Determining how insight will help to accomplish the objective
+* Vision: Having ideas about how insight will help and what that might look like in practice
+* Outcome:  Specifying how insights will be adopted and success will be measured
+
+* Converting data into insights is no easy task. It’s complicated and skilled work and relies on good quality data that is accessible.
+*  Those tasked with delivering insights often cite data quality, data volume, work effort, and integrating data from various sources as the top reasons that make it difficult and create a deterrent to adoption.
+*  The wrong actions taken in response to insights can have devastating business consequences.
+*   Trusting insights requires a high degree of confidence in both those producing the analytics and those receiving the results.
+*    While the vast majority of organizations want to rely on insights, recent surveys suggest that only a minority of leaders act on the insights provided.
+* Quality insights can provide a competitive advantage and operational excellence, but organizations have work to do to fully realize their potential.
+
+# Data Analytics
+* to realize the benefits of data and discover insights, you need analytics.
+* Analytics unlocks the power embedded in good-quality data.
+* Data analytics involves both specialized skills and software to explore data sets and extract insights that may be useful to an organization.
+* Sometimes the term is used interchangeably with data analysis.
+* Data analysis is concerned with identifying a data set, examining it, and reporting on any findings.
+* It’s a subset of data analytics and it typically focuses on what data from the past tells us.
+On the other hand, data analytics is a complete science that involves collecting, cleaning, organizing, storing, administering, and analyzing data.
+* The source of data for analytics is one or a combination of the following:
+* First-party data:  Data that an organization collects.
+* Second-party data:  Data that is obtained from another organization.
+* Third-party data:  Aggregated data obtained from a provider.
+
+#### Typical uses of contemporary data analytics tools and techniques include:\
+* Vastly improved decision-making
+* Focused marketing campaigns
+* Understanding the competitive landscape
+* Designing more innovative products
+* Better customer service
+* Improved operations
+* Insights on customer behavior
+* data analytics has matured considerably, and its value to businesses has skyrocketed.
+* This is the result of all types of organizations recognizing and prioritizing the value of data, the advent of big data, the emergence of data science as a respected business competency, and the arrival of game-changing new analytics tools.
+*  These tools now regularly incorporate AI to help identify patterns and relationships in data.
+*   This AI can augment some of the traditional data analyst responsibilities to increase speed and accuracy.
+*   Any organization that is serious about increasing the use of data for a wide range of business purposes must be ready to govern its data analytics capabilities.
+*   This includes policies and procedures, experienced talent, and a suite of contemporary software tools.
+
+# Data Monetization
+* An asset is something owned that has the expectation of delivering value.
+*  Unlike tangible assets such as inventory and property, data falls into the same category as assets such as copyrights and software.
+*  Intuitively, when something has a high value, it’s likely to be treated differently from things with little value.
+*  Without a process to place a price on a data set - called data valuation - the value of a given data set may be highly subjective and may differ considerably between the perspectives of team members.
+*  When data provides an economic benefit to an organization, it's called data monetization. It’s a succinct, albeit cruder, way to generally consider the ultimate role of data in a for-profit enterprise.
+*  Data valuation, while generally recommended in larger enterprises, is a requirement for advanced data monetization such as selling or licensing data.
+
+##### Ways to determine data valuation:
+* Cost value method:  Value is calculated by determining how much it costs to produce, store, and replace lost data. It’s a simple method and can be useful as a lightweight approach, but it is subjective and doesn’t necessarily account for the economic value that the data can produce.
+* Market value approach:  Value is calculated by researching how comparable data is being priced in the open market. It’s a great approach if market-based comparable data exists but doesn’t work for the vast number of data sets that are not traded.
+* Economic value approach:  Value is calculated by measuring the impact a data set has on the business’s bottom line. It’s a difficult approach because it may be nearly impossible to identify the specific value of the data relative to other contributors of value.
+* With-and-without method:  Value is calculated by quantifying the impact on cash flow if a data set needs to be replaced. Scenarios with and without the data are explored and the difference between cash flow is used to determine data value. Like others, this can be challenging to pinpoint the specific impact of a data set.
+* What’s clear from data valuation methods is that none of them are perfect. Above all, data valuation is very hard. But in practice don’t be discouraged. It’s hard for every type of organization. Fortunately, a number of providers are ready to help if you want outside assistance.
+* Assuming your organization realizes that data is a strategic corporate asset, you must be intentional in how you manage that asset. Called data asset management, a business must know what data sets it has and understand their value. It must have a plan for utilization and a mechanism to measure return on investment.
+* For optimal data monetization, organizations must manage high-value data with the same priority and rigor (and maybe even more) that it treats its most important tangible assets.
+
+# Data-Driven Decision Making
+*  the most important value for most enterprises to derive from data is the ability to make better, more-informed decisions.
+* data-driven decision-making (DDDM) is the process of using data to drive business decisions.
+* six-step process to data-driven decision-making:
+* Define the objectives:  This step involves understanding the objectives relative to the effort and their alignment with organizational goals. This will help you scope the work and define the metrics. In fact, it can be useful to define success and then work backward. For example, if you’re trying to increase sales in a particular region, you need to identify which metrics to capture in order to determine whether you achieved that objective.
+* Identify the data:  In addition to using a data catalogue, enterprise search, or similar, this step requires engaging with impacted stakeholders. Getting input from a diverse group of people and teams will help you scope the data. This may generate the need to gather data that doesn’t exist.
+* Prepare the data:  After Step 2, you'll understand the degree of preparation you need. If the problem you’re trying to solve is narrow and the data is easily accessible and high-quality, you’ll be in pretty good shape. In most cases, your situation is unlikely to be simple. The data necessary to meet your decision-making objectives will likely come in a variety of formats and will be in need of some remediation.
+* Analyze the data:  Once you reach this point, the most exciting part begins. The assumption is that you’re using a useful analytics tool. For complex analysis and continuous efforts, several tools will be used. This could include support for an ETL architecture (Extract, Transform, and Load). This is when data is extracted from one system and made ready and available for use in another. T\
+* Determine the findings:  Once you have data that you can display in a variety of ways, you can ask questions about it. For example, if you’re trying to understand customer demographics relative to sales in a particular region, you may want to toggle between different age ranges. While all phases of DDDM have complexity, the tough work here is knowing which questions to ask. This skill is aided by training, but experience helps.
+* Take action:  That’s all there is to this step. Make your decisions. If you’ve completed Steps 1-5 well, but no action is taken (assuming that’s not the decision based on analyzing the data since concluding that no decision is necessary is, in fact, a decision)
+* While a first pass at a new problem will require most of these steps in sequence, it’s common to iterate through some of the steps to get to a good place for analysis.
+* Data-driven decision-making - done right - can be a game-changer for any organization.
+* With the culture, skills, and tools, better decisions will be made, and they’ll be made more quickly too.
+* As a bonus, team members will feel more empowered, and the process will often lead to greater collaboration between business units.
 
 
 
