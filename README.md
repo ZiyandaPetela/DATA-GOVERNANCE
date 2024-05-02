@@ -238,8 +238,8 @@
   ![image](https://github.com/ZiyandaPetela/DATA-GOVERNANCE/assets/123364433/61beb583-7c54-4099-bdda-77b8fdb48991)
   * the data-information-knowledge-wisdom (DIKW) hierarchy
   *Data leads to insight 
-  * ![image](https://github.com/ZiyandaPetela/DATA-GOVERNANCE/assets/123364433/c5aac371-
-    0560-4f52-b79d-929d00a0c6c1)
+  * ![image](https://github.com/ZiyandaPetela/DATA-GOVERNANCE/assets/123364433/df0cd7cc-5cd2-4dec-bb48-a4da04feab6c)
+
 * the best outcome can’t be guaranteed no matter which processes, tools, or skills are used, good practices such as the right level of data governance can absolutely lead to better results.
 
   
