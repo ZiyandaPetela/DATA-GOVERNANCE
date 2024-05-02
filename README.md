@@ -239,7 +239,47 @@
   * the data-information-knowledge-wisdom (DIKW) hierarchy
   *Data leads to insight 
   * ![image](https://github.com/ZiyandaPetela/DATA-GOVERNANCE/assets/123364433/df0cd7cc-5cd2-4dec-bb48-a4da04feab6c)
-
 * the best outcome can’t be guaranteed no matter which processes, tools, or skills are used, good practices such as the right level of data governance can absolutely lead to better results.
+
+# The Role of Data in the 21st Century
+* Since the early days of data processing in the 19th and 20th centuries right through to digital transformation in the 21st century, data has played many important roles.
+*  It’s helped us understand the world in completely new ways, improved our ability to make better-informed decisions, and supported our efforts to solve all manner of problems.
+*  In this way, it’s fair to say that data has always been important.
+*  ince the mid-20th century, as more computer systems came online, the role of data has grown.
+*  It’s not just that the quantity of data began to increase rapidly, but it was also the quality of the data and the availability of it to so many people.
+*  In these early decades of the 21st century, we are producing more data than we can handle, and the depth, breadth, and quality of the data that is being used are reshaping not just the tools and capabilities of our industries and cities, but the nature of how we learn, socialize, and entertain ourselves.
+*  It’s also elevating risks that we may previously have characterized as annoyances to a world today where a cyberattack can result in millions of dollars of losses in hours.
+
+# Data-Driven Decision-Making
+*  one of the greatest values of data is its ability to help us all make better decisions.
+*  The availability of abundant good quality data has been a boon for decision-making.
+*  if you make a decision based on bad data, your challenges will be entirely different.
+*  Abundant data is a product of the 21st century, but quality data is the product of deliberate actions.
+*   Data governance plays a central role when aspiring for data quality.
+
+# Data as The New Oil
+* Just as oil drove and grew economies in the past, data is doing that now.
+* Some have subsequently added that just like oil, data has value but must first be processed to be useful.
+*  Specifically, oil is refined to make gas, plastics, and other useful chemicals.
+*  In a similar fashion, data must be organized and analyzed to understand patterns, make decisions, identify problems, and feed other systems.
+*  Without these additional steps of organizing and analyzing, oil and data are similar in that they are notably messy and unusable in their raw form.
+*  As oil powered the industrial economies of the 19th and 20th centuries, data is powering the digital economies of the 21st century.
+*  The big economic powerhouses are being powered by data, such as the technology firms Facebook and Google.
+
+
+# 
+ Completedother Overview 
+ Completedother Defining Data 
+ other Welcome to The Zettabyte Era 
+ other From Data to Insight 
+ other The Role of Data in the 21st Century 
+ other Data-Driven Decision-Making 
+ other Data as The New Oil 
+other Data Ownership 
+other Data Architecture 
+other The Lifecycle of Data 
+other Understanding the Impact of Big Data 
+other Defining Big Data 
+Data Ownership
 
   
