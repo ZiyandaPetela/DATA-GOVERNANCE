@@ -380,12 +380,12 @@ Smaller, logically arranged data can be the way to make sense of big data. In so
 *  In the 21st century we must recognize that all data can have value — big, small, and smart. Data governance is concerned with data no matter what form it takes.
 
 # CHAPTER 3: DRIVING VALUE THROUGH DATA
-# Identifying the Roles of Data
+## Identifying the Roles of Data
 * It's critical to ensure that data is high quality, secure, compliant, and accessible to the right people at the right time.
 * Data isn’t something that just concerns the data analytics team or the information technology department. It’s also not something that is limited to decision-makers and leaders.
 * Data matters to everyone.
 
-* Operations
+###Operations
 * Business operations concern themselves with a diverse set of activities to run the day-to-day needs and drive the mission of an organization.
 * Each business has different needs, and operational functions reflect these specific requirements.
 *  Some core functions show up in almost every organization. Consider payroll, order management, and marketing.
@@ -400,7 +400,7 @@ Smaller, logically arranged data can be the way to make sense of big data. In so
 *   For example, a regional sales team will deliver their monthly results to headquarters to be presented to vice presidents or the C-suite.
 *   Many data functions in support operations are automated. For example, a warehouse inventory system may automatically generate a replenishment order when stock drops to a certain level. Consider all the notifications that systems generate based on triggers.
 
-* Strategy
+ ###   Strategy
 * Every organization has a strategy, whether it’s articulated overtly or not.
 *  At the organizational level, this is about creating a plan that supports objectives and goals.
 *  It’s essentially about understanding the challenges to delivering on the organization’s purpose and then agreeing on the proposed solutions to those challenges.
@@ -420,7 +420,7 @@ Smaller, logically arranged data can be the way to make sense of big data. In so
 *  In the 21st century, organizations need to react quickly to environmental conditions to survive.
 *  Data will form the backbone of your response system.
 
-*  Decision-Making
+### Decision-Making
 *  It’s generally accepted in business that the highest form of value derived from data is the ability to make better-informed decisions.
 *  The volume and quality of data available today have no precedent in history.
 * Without even creating a single unit of raw data, there’s a universe of existing data and information at our fingertips.
@@ -434,7 +434,7 @@ Smaller, logically arranged data can be the way to make sense of big data. In so
 *  Bad data may be worse than no data. Bad data processed into information and then used as the basis for decisions will result in failure.
 *   The outcome of decisions based on bad data could range from a minor mistake to job termination right up to the closing of the business.
 
-* Measuring
+###  Measuring
 * Organizations are in a continuous state of measurement, whether it’s overt or tacit. Every observed unit of data contributes to building a picture of the business.
 *  The often-used adage, what gets measured gets managed, is generally applicable.
 *  That said, some things are hard to measure and not everything gets measured.
@@ -446,7 +446,8 @@ Smaller, logically arranged data can be the way to make sense of big data. In so
 *   A general rule is only to capture and measure what matters. Some may argue that capturing data now to measure later has value even if there isn’t a good case yet.
 *   I can buy that but be careful with your limited resources and the potential costs.
 
-*  Monitoring
+
+###    Monitoring
 * This is an ongoing process of collecting and evaluating the performance of, say, a project, process, system, or another item of interest.
 *  Often the results collected are compared against some existing values or desired targets.
 *  For example, a machine on a factory floor may be expected to produce 100 widgets per hour.
@@ -465,7 +466,7 @@ Smaller, logically arranged data can be the way to make sense of big data. In so
 * By continuously monitoring the quality of the data in your organization, opportunities and issues may be revealed in a timely manner.
 * Then, if deemed appropriate, actions can be prioritized.
 
-* Insight Management
+  ### Insight Management
 * Data forms the building blocks of many business functions. In support of decision-making — arguably its most important value — data is the source for almost all insight.
 * As a basic definition, business insight is sometimes referred to as information that can make a difference.
 * It’s not enough to simply collect lots of data and expect that insight will suddenly emerge.
@@ -479,7 +480,7 @@ Smaller, logically arranged data can be the way to make sense of big data. In so
 *  Some people will want an executive summary while others may want the painful details.
 *  For simplicity, you can think of knowledge management as the organizational support structures and tools to enable insight to be available to employees for whatever reason they need it.
 
-* Reporting
+### Reporting
 * Perhaps the most obvious manifestation of data and information management in any organization is the use of reports. Creating, delivering, receiving, and acting on reports are fundamental functions of any organization.
 * Some say they are the backbone of every business.
 * That sounds overly glamorous, but it does speak to the importance of reporting and reports.
@@ -496,7 +497,7 @@ Smaller, logically arranged data can be the way to make sense of big data. In so
 * While reports do empower leaders and give them more tools, they don’t guarantee the right decisions.
 *  Knowing something is not the equivalent of making the right choices at the right time.
 
-*  Other Roles for Data
+  ### Other Roles for Data
 *  Artificial intelligence (AI):  Data is considered the fuel of AI. It requires a high volume of good data. With huge quantities of quality data, the outcomes of AI improve.
 *  It’s from the data that AI learns patterns, identifies relationships, and determines probabilities.
 *   In addition, AI is being used to improve the quality and use of data in organizations.
@@ -507,4 +508,96 @@ Smaller, logically arranged data can be the way to make sense of big data. In so
 *    Later, that same data set may be used by the marketing team to create awareness about other products and services.
 *    These are two different teams with different goals using the same data. Data reuse can be considered a positive given that it reduces data collection duplication and increases the value of data to an organization, but it must be managed with care so that it doesn’t break any data use rules.
 
-# Improving Outcomes with Data
+#Improving Outcomes with Data
+*  It begins with recognizing that data is an organizational asset
+*  This simply means that it’s something that brings economic value to the organization.
+*  It’s clear to see this when it is pointed out, but many team members don’t yet look at data this way.
+*  When data is considered an asset - in fact, specifically a high-value asset - it often gets treated differently.
+*  Perhaps the function that is most associated with data is the process of exploring it and looking for insights. Called data analytics, this is a comprehensive organizational function that requires skilled staff and tools.
+*  With the emergence of big data, data analytics has become more complex and requires deeper skills, but it’s also made data more valuable and important to the business.
+
+# Approaching Data as an Asset
+* An asset is something that is owned by a person, an organization, or a government with the expectation that it can bring some economic benefit. This includes the generation of income, the reduction of expenses, or an increase in net worth.
+*  An asset can be tangible or intangible.
+*   Tangible assets are physical things such as inventory, machines, and property.
+*   That’s stuff you can see and touch.
+*   An intangible asset is the opposite; it’s a non-physical thing like software, copyrights, a brand, and goodwill. Data is an intangible asset.
+*   Organizations care about both types of assets because they typically get captured in their financial accounts.
+*   Listing the value of assets presents the true state of any organization and reflects its financial health.
+*    In addition, capturing and valuing assets is required for determining tax obligations and for acquiring loans.
+* After it is processed from its raw form, data has the potential to create enormous economic value for all manner of stakeholders.
+
+#### examples of the economic value of data
+* Improves operations.
+* Increases existing revenue.
+* Produces new forms of revenue.
+* Builds relationships with customers and other stakeholders.
+* Improves the quality of products and services.
+* Contributes to competitive advantage.
+* Enables innovation.
+* Reduces risk.
+* The net result of knowing that data is an asset, but not treating it the same way as other financial assets, means it often doesn’t get the attention and respect it deserves.
+* In practical terms, this may mean that data is often taken for granted, not leveraged nearly as much as it could be, and not protected to the extent it must be.
+* Recognizing that data is an asset is the first step to good data governance.
+* When you think of data as an asset, you’ll be concerned with whether it is good or bad data.
+*  You’ll pay attention to the data’s accuracy, completeness, validity, and more.
+*  It means the organization will be mindful of whether data is being used as an organizational resource or being hidden in silos.
+*  This will mean understanding how the data is being managed and who has responsibility for it. Without roles and accountabilities, data can’t truly be managed well.
+*  Data is an asset and for its value to be leveraged, it must be governed. This may be one of the most important motivations for good data governance.
+
+
+# Data Analytics
+* In order to make sense of data, you have to apply specific tools and techniques.
+* The process of examining data in order to produce answers or find conclusions is called data analytics.
+* A formal and disciplined approach is conducted by a data analyst, and it’s a necessary step for any individual or organization that’s trying to make good decisions for their organization.
+* The process of data analytics is varied depending on resources and context
+  ### Basics steps in data analysis
+ ![image](https://github.com/ZiyandaPetela/DATA-GOVERNANCE/assets/123364433/7b29fd6d-c4e1-4497-8ce1-245ed17b3a2a)
+*  These steps commence after the problem and questions have been identified.
+
+  ### The relative complexity and business value of four types of analytics
+  ![image](https://github.com/ZiyandaPetela/DATA-GOVERNANCE/assets/123364433/57cce65d-0489-4897-8960-dd5f9ad34594)
+ * Descriptive:  Existing data sets of historical data are accessed, and analysis is performed to determine what the data tells stakeholders about the performance of a key performance indicator (KPI) or other business objectives. It is insight on past performance.
+ * Diagnostic:  As the term suggests, this analysis tries to glean from the data the answer to why something happened. It takes descriptive analysis and looks at the cause.
+ * Predictive:  In this approach, the analyst uses techniques to determine what may occur in the future. It applies tools and techniques to historical data and trends to predict the likelihood of certain outcomes.
+ * Prescriptive:  This analysis focuses on what action should be taken. In combination with predictive analytics, prescriptive techniques provide estimates of the probabilities of a variety of future outcomes. 
+
+* Data analytics involves the use of a variety of software tools depending on the needs, complexities, and skills of the analyst.
+*  Beyond your favorite spreadsheet program, which can deliver a lot of capabilities, data analysts use products such as R, Python, Tableau, Power BI, QlikView, and others.
+*  If your organization is big enough and has the budget, one or more data analysts is certainly a minimum requirement for serious analytics.
+*   With that said, every organization should now consider some basic data analytic skills for most staff.
+*   In a data-centric, digital world, having data science as a growing business competency may be as important as basic word processing and email skills.
+
+# Data Management
+* Data management is not the same as data governance! But they work closely together to deliver results in the use of enterprise data.
+* Data governance concerns itself with, for example, defining the roles, policies, controls, and processes for increasing the quality and value of organizational data.
+* Data management is the implementation of data governance. Without data management, data governance is just wishful thinking. To get value from data, there must be execution.
+* At some level, all organizations implement data management.
+* If you collect and store data, technically you’re managing that data. What matters in data management is the degree of sophistication that is applied to managing the value and quality of data sets.
+*  If it’s on the low side, data may be a bottleneck rather than an advantage.
+*  Poor data management often results in data silos across an organization, security and compliance issues, errors in data sets, and overall low confidence in the quality of data.
+
+
+### Who would choose to make decisions based on bad data?
+*  good data management can result in more success in the marketplace.
+* When data is handled and treated as a valuable enterprise asset: insights are richer and timelier, operations run smoother, and team members have what they need to make more informed decisions.
+* Well-executed data management can translate to reduced data security breaches, and lower compliance, regulatory, and privacy issues. 
+ * Data management processes involve the collection, storage, organization, maintenance, and analytics of an organization’s data.
+ * It includes the architecture of technology systems such that data can flow across the enterprise and be accessed whenever and by whom it is approved for use.
+ *  Additionally, responsibilities will likely include such areas as data standardization, encryption, and archiving.
+ *  good data management provides the opportunity for significantly enhanced organizational performance.
+
+### Governing Data
+* Governing data means that some level of control exists to support a related policy.
+* For example, an organization may decide that to reduce risk, there needs to be a policy that requires data to be backed up every day.
+*  The control would be the documentation of the process and enforcement of that policy.
+*  To fully realize the potential of data in your organization means that data must be governed.
+*  Any time an organizational resource or asset is left unmanaged, it’s either a recipe for disaster or a missed opportunity.
+*   Even a small amount of governance beats no governance every single day.
+
+#### The success of governing data can be reduced to three essential factors:
+* People:  While recognizing that data is increasingly created and used exclusively by machines without human intervention, handling and benefiting from data is still a highly people-centric exercise. Even in a machine-centric context, it’s people who are most often defining, designing, and maintaining data use.
+* Policies:  A data policy contains a set of adopted rules by an organization that apply to the handling of data in specific conditions and for particular desired outcomes. These policies apply in areas such as quality, privacy, retention, and security. The number of policies is typically a reflection of the size of the organization, the industry, and the degree to which data is considered a high-priority asset. A
+* Metrics:  It’s largely true, what gets measured gets managed. In developing policies in support of data governance, you have to consider how each is measured. For example, if a policy states that there shouldn’t be more than five risk events per month such as a regulatory requirement being out of compliance, then, assuming the metric is high to begin with, it should decrease over time.
+
+# CHAPTER FOUR : TRANSFORMING THROUGH DATA
