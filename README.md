@@ -412,4 +412,99 @@ Smaller, logically arranged data can be the way to make sense of big data. In so
 * It begins with an analysis of the environment followed by some conclusions on what has been gathered.
 *  Finally, a plan is developed, driven by some form of guiding principles. These principles may be derived from the nature of the work, the values of the founders, or some other factors.
 *  Deeply tied to all these steps is the availability of good quality data that can be processed and analyzed and then turned into actionable insights.
-  
+* The right mix of data and non-data sources must be considered.
+* A best practice for strategy development is to consider it an ongoing process.
+*  This doesn’t mean updating the strategy every month — as strategies are intended to last for several years — but it may mean revisiting the strategy every six months and tweaking it as necessary.
+*  Revisions to strategy should be guided by new data, which can mean new knowledge and new insights.
+*  While a regular process of strategy revisions is encouraged, new information that suddenly presents itself can trigger an impromptu update.
+*  In the 21st century, organizations need to react quickly to environmental conditions to survive.
+*  Data will form the backbone of your response system.
+
+*  Decision-Making
+*  It’s generally accepted in business that the highest form of value derived from data is the ability to make better-informed decisions.
+*  The volume and quality of data available today have no precedent in history.
+* Without even creating a single unit of raw data, there’s a universe of existing data and information at our fingertips.
+*  In addition, increasing numbers of easy-to-use analysis capabilities and tools are democratizing access to insight.
+*  Popular consumer search engines such as Google and Bing have transformed how we make decisions. Doctors, for example, now deal with patients who are more informed about their symptoms and their causes.
+*  Within organizations, access to abundant data and information has resulted in quicker, timeous, and better-quality business decisions.
+*   For example, executives can understand their strengths, weaknesses, opportunities, and threats closer to real time.
+*   Even if the information is tentative in the interim, it’s vastly better than being in the dark until it may be too late.
+*    While there’s little surprise that data-driven decision-making is a fundamental business competency, it all hinges on decision-makers getting access to quality data at the right time.
+*    Abundant and out-of-date data are not synonymous with data value.
+*  Bad data may be worse than no data. Bad data processed into information and then used as the basis for decisions will result in failure.
+*   The outcome of decisions based on bad data could range from a minor mistake to job termination right up to the closing of the business.
+
+* Measuring
+* Organizations are in a continuous state of measurement, whether it’s overt or tacit. Every observed unit of data contributes to building a picture of the business.
+*  The often-used adage, what gets measured gets managed, is generally applicable.
+*  That said, some things are hard to measure and not everything gets measured.
+*  The aspiration for every leader is that they have the information they need when they need it.
+*   You might not always think of it this way, but that information is going to be derived from data that is a result of some form of measurement.
+*  Data measurements can be quantitative or qualitative.
+*   Quantitative data is most often described in numerical terms, whereas qualitative data is descriptive and expressed in terms of language.
+*   The type of information desired directly correlates to the measurement approach. This is going to inform your choices of at least what, when, where, and how data is captured.
+*   A general rule is only to capture and measure what matters. Some may argue that capturing data now to measure later has value even if there isn’t a good case yet.
+*   I can buy that but be careful with your limited resources and the potential costs.
+
+*  Monitoring
+* This is an ongoing process of collecting and evaluating the performance of, say, a project, process, system, or another item of interest.
+*  Often the results collected are compared against some existing values or desired targets.
+*  For example, a machine on a factory floor may be expected to produce 100 widgets per hour.
+*   You engage in some manner of monitoring in order to inform whether, in fact, this expectation is being met.
+*   Across a wide range of activities, monitoring also helps to ensure the continuity, stability, and reliability of that being supervised.
+* Involved in monitoring is the data produced by the thing being evaluated. It’s also the data that is produced as a product of monitoring.
+* For example, the deviation from the expected result.
+* The data produced through monitoring feeds reports, real-time systems, and software-based dashboards.
+* A monitor can tell you how much power is left in your smartphone, whether an employee is spending all their time on social media, or if through predictive maintenance, a production line is about to fail.
+* Monitoring is another process that converts data into insight and as such, exists as a mechanism to guide decisions.
+*  The role of data in measurement and monitoring often go hand-in-hand. Intuitively you know you have to measure something that you want to monitor.
+* Data monitoring is also the process of evaluating the quality of data and determining if it is fit for purpose.
+*  To achieve this, it requires processes, technologies, and benchmarks.
+*  Data monitoring begins with establishing data quality metrics and then measuring results over time on a continuous basis.
+*   Data quality monitoring metrics may include areas such as completeness and accuracy.
+* By continuously monitoring the quality of the data in your organization, opportunities and issues may be revealed in a timely manner.
+* Then, if deemed appropriate, actions can be prioritized.
+
+* Insight Management
+* Data forms the building blocks of many business functions. In support of decision-making — arguably its most important value — data is the source for almost all insight.
+* As a basic definition, business insight is sometimes referred to as information that can make a difference.
+* It’s not enough to simply collect lots of data and expect that insight will suddenly emerge.
+*  There must be an attendant management process.
+*  Thus, insight management means ensuring that data and information are capable of delivering insight.
+* Insight management begins with gathering and analyzing data from different sources. In order to determine what data to process, those responsible for insight management must deeply understand the organization’s information needs.
+* They must be knowledgeable about what data has value. In addition, these analysts must know how information flows across the organization and who it must reach.
+* With the data gathered and processed, analytics will be applied — this is the interpretation of the data and its implications.
+* Finally, insight management involves designing and creating the most effective manner to communicate any findings.
+* For different audiences, different mechanisms may be required. This is seldom a one-size-fits-all.
+*  Some people will want an executive summary while others may want the painful details.
+*  For simplicity, you can think of knowledge management as the organizational support structures and tools to enable insight to be available to employees for whatever reason they need it.
+
+* Reporting
+* Perhaps the most obvious manifestation of data and information management in any organization is the use of reports. Creating, delivering, receiving, and acting on reports are fundamental functions of any organization.
+* Some say they are the backbone of every business.
+* That sounds overly glamorous, but it does speak to the importance of reporting and reports.
+* The content of a report, which can be summarized or detailed, contains data and information in a structured manner.
+*  For example, an expenditure report would provide a basic overview of the purpose of the report and then support it with relevant information.
+*  That could include a list of all expenditures for a department over a certain period or it could just be a total amount.
+*   It will depend on the audience and purpose. The inclusion of visuals is popular.
+*   The report may have a discussion of the findings and will conclude with a summary and sometimes a set of recommendations.
+* Reports are typically online or physical presentations of data and information on some aspect of an organization.
+*  For example, a written and printed report may show all the sales of a particular product or service during a specific period.
+*   Sometimes a report is given verbally in person or via a live or recorded video. Whatever the format — and that’s less important today as long as it achieves its objective — a report is developed for a particular audience with a specific purpose.
+* With so many uses of data and information, the purpose of reporting is largely about improved decision-making.
+*  With the right information, in the right format, at the right time, business leaders are empowered to make better decisions, solve problems, and communicate plans and policies.
+* While reports do empower leaders and give them more tools, they don’t guarantee the right decisions.
+*  Knowing something is not the equivalent of making the right choices at the right time.
+
+*  Other Roles for Data
+*  Artificial intelligence (AI):  Data is considered the fuel of AI. It requires a high volume of good data. With huge quantities of quality data, the outcomes of AI improve.
+*  It’s from the data that AI learns patterns, identifies relationships, and determines probabilities.
+*   In addition, AI is being used to improve the quality and use of data in organizations.
+*   Problem-solving:  Acknowledging the close association with decision-making, it’s worth calling out problem-solving as a distinctive use of data. Data plays a role in how a problem is defined, determining what solutions are available, evaluating which solution   use, and measuring the success or failure of the solution that is chosen and applied.
+*   Data reuse:  While we collect and use data for a specific primary purpose, data is often reused for entirely different reasons.
+*   Data that has been collected, used, and stored can be retrieved and used by a different team at another time - assuming they have permission, including access and legal rights (notable controls within data governance).
+*   For example, the sales team in an organization will collect your name and address in order to fulfill an order.
+*    Later, that same data set may be used by the marketing team to create awareness about other products and services.
+*    These are two different teams with different goals using the same data. Data reuse can be considered a positive given that it reduces data collection duplication and increases the value of data to an organization, but it must be managed with care so that it doesn’t break any data use rules.
+
+# Improving Outcomes with Data
