@@ -150,7 +150,36 @@
 *  But to be able to look at the data for answers, the data must be readily available, trustworthy, and interpretable.
 
 * Assessing the Data Culture
-* 
+* data culture is how your organization values data and how it manages and uses it.
+* Effective data cultures support and empower all employees
+* In a data culture, decisions don’t rely on gut feelings, guesses, or the opinion of the highest-paid/ranking person in the room. Rather, decisions are based on data and the insights they can produce.
+* It’s been said that data culture is decision culture
+* Data culture can be now considered a new way of doing business in the digital age.
+*  implementing data governance will be a positive and important contributing factor to building a data culture.
+
+# Maturing the Data Culture
+* When it is needed to better prepare the organization for data governance by maturing the data culture,must do the following:
+* Help leaders communicate the value of data and model the type of behavior that demonstrates that data is a priority. This must include communicating the positive results of using data.
+* Provide basic tools and education for data use that include manipulating data, analytics, data cleansing, basic query commands, and visualization. Don’t overlook the remarkable capabilities of common applications such as spreadsheets.
+* Do something, even if it’s small, to show progress. A successful data culture doesn’t begin with the deployment of complex, far-reaching solutions. Rather, it can be eased into the organization via basic data-management skills offered in a classroom setting or online.
+* Recognize that resistance and frustration are part of the journey. Rather than fighting it, find ways to bring comfort and rewards to team members. At a minimum, provide a channel for feedback and positive discussion.
+
+* Assessing Data Governance Readiness
+* the success rate of data governance programs on the first try remains low.
+*  It’s important to maximize the conditions for success.
+*  Must check the followong to help determine the data governance readiness for organizations:
+*  The basis of a data culture exists.
+*  The program is 100 percent aligned with business strategy.
+*  Senior leadership is 100 percent committed to the program and its goals.
+*  Senior leadership understands this is a strategic, enterprise program and not the sole responsibility of the IT department.
+*  One or more sponsors have been identified at an executive level.
+*  The program has the commitment to fund its creation and to maintain it in the long term.
+*  The organization understands this is an ongoing program and not a one-off project.
+*  You have documented the return-on-investment (ROI).
+*  Legal and compliance teams (internally or externally) understand and support the goals of the program.
+*  Fundamental data skills exist for the data governance journey.
+*  The IT organization is capable and resourced to support the program.
+
 
 
 
