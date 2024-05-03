@@ -47,7 +47,7 @@
 * Governing and managing data well is a central enabler of EIM, which also includes using technologies and processes to elevate data to be a shared enterprise asset.
 
 
-* Data Governance Versus Data Management
+### Data Governance Versus Data Management
 * Data governance is focused on roles and responsibilities, policies, definitions, metrics, and the lifecycle of data.
 * *  For example, databases, data warehouses and lakes, application programming interfaces (APIs), analytics software, encryption, data crunching, and architectural design and implementation are all data management features and functions.
 * Data management is the technical implementation of data governance.
