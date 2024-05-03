@@ -782,4 +782,22 @@ On the other hand, data analytics is a complete science that involves collecting
 *  Alignment with the business: A data strategy is a subset of the overall business strategy. This means the data strategy must support and advance the larger goals of the organization. When determining the goals of the data strategy, where possible, map them as clearly as possible to illustrate how they are in support of the business strategy.
 *  Identifying roles and responsibilities: A strategy requires people to take specific actions. Without action, a strategy is a worthless document. In the data strategy, you’ll want to document the different roles that team members will play. Most will be data consumers. These are the employees who access and use data. They will certainly have responsibilities.
 *  Data architecture: This area relates to the processes, systems, and applications that support working with data. Basic areas include defining data storage needs and analysis tools. It also includes items such as a data catalog, a data warehouse where data can be stored and made ready for analysis, and the methods and tools for data pipelines, moving data from a data source to a destination, and related ETL (extract, transform, and load) functions.
-*  Data management: This area is the broad umbrella of activities that manage the full lifecycle of data in an organization. It recognizes that data is a strategic asset and must have the attendant processes, procedures, policies, skills, and tools to ensure it is treated in such a manner. 
+*  Data management: This area is the broad umbrella of activities that manage the full lifecycle of data in an organization. It recognizes that data is a strategic asset and must have the attendant processes, procedures, policies, skills, and tools to ensure it is treated in such a manner.
+* Data governance establishes the rules for data use, and data management ensures that, in the act of realizing data value in the organization, these rules are followed
+* For example, a data governance policy may state that data with a certain confidentiality classification may only be accessible by a specific role level in the organization.
+* Data management will be the processes, tools, and staff that ensure that this governance rule is followed.
+* Since you know that a data strategy may need to evolve, data management and data governance must be updated in parallel.
+* If either of them becomes out of sync with the data strategy, you should expect some dreadful problems to arise
+
+### four components of a data strategy
+![image](https://github.com/ZiyandaPetela/DATA-GOVERNANCE/assets/123364433/acd49594-3cf8-4391-970a-99968bf60005)
+
+
+# Managing and Monitoring Your Data Strategy
+* it is always good if you successfully design, create, and implement a data strategy in your organization.
+* All strategies must be open to periodic modification. It’s not realistic to expect a strategy to be fixed for its duration in a fast-moving business world.
+* Your evolving customer expectations, organizational needs, the economy, and more all play a role in forcing a strategy to adapt.
+* The worst thing you can do is design a strategy, implement it, and place the plan on a shelf only to revisit it three to five years later. Unfortunately, this happens more often than not.
+* It is something you experience often in your organization.
+* Monitoring your data strategy means having the right metrics, getting feedback regularly from participants, and auditing related outcomes.
+* All strategies, including your data strategy, must be regularly reviewed and modified as necessary. This is a core characteristic of an agile organization in the 21st century.
