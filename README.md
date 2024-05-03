@@ -749,7 +749,37 @@ On the other hand, data analytics is a complete science that involves collecting
 * As a bonus, team members will feel more empowered, and the process will often lead to greater collaboration between business units.
 
 
+# Developing a Data Strategy for Improved Results
+## Reasons that organizations don’t take a proactive approach to managing data:
+* “If it ain’t broke”, why fix it?
+* It’s too expensive and time-consuming to focus on data.
+* It’s far too complicated.
+* Data management and governance — what is that?
+* If a business is not open or able to recognize the potential upside of managing data as a high-value asset, it will be an uphill battle to convince them otherwise. 
+* The purpose of any type of strategy is to agree on a set of guiding principles that inform decision-making in support of a desired outcome.
+* A strategy must have clarity and make it easy for all leaders and team members to know what they need to do, what they need to avoid, and how actions should be prioritized.
+* Operating without an agreed and current strategy carries enormous risks.
+* Strategy can apply to processes and assets too. Having a strategy for strategies might be important too.
+*  data is one of the most important assets that a business can use in support of its performance goals.
+*  You need a data strategy in order to elevate data to become a strategic resource. That strategy should reflect the size and complexity of your business and the industry in which you operate.
+* A good data strategy will guide decision-making and resource allocation around data in support of the organization.
+*  It will demonstrate and communicate data as a priority and ensure that it is treated in a manner to optimize the success of the organization.
 
+# Creating a Data Strategy
+###  characteristics to guide in creating data strategy
+* Data maturity:  This can be defined simply as the degree to which the organization already uses and optimizes data and has experience and skills, as well as the quality of the existing data. All organizations use data, but there’s a big difference between those that have prioritized it for a long period and those just deciding to treat it as a strategic asset.
+* Industry and size: You can think of data prioritization through two frameworks: defense and offense. Defense deals with fundamental areas such as data security and quality. Offense is using data for insight management and market-facing initiatives. Every organization does both, but most emphasize one over the other depending on the industry and its size.
+* With data maturity, industry, and size considered, a commensurate data strategy should follow
 
+### data strategy take account for five areas of data requirements:
+* dentify:  To find and make data usable, it must be clearly defined and described. This includes a file name, a file format, and metadata.
+* Store:  Design and develop the capabilities for supporting the place and process for hosting data and how it will be shared, accessed, and processed.
+* Provision:  Determine the processes to share and reuse data and define the guidelines for access.
+* Process:  Raw data must be transformed to become valuable. This includes processes for data cleansing, standardization, and integration with other data sets.
+* Govern:  Institute processes to manage and communicate data policies for data use within the organization.
 
-
+###  four data strategy components:
+*  Alignment with the business: A data strategy is a subset of the overall business strategy. This means the data strategy must support and advance the larger goals of the organization. When determining the goals of the data strategy, where possible, map them as clearly as possible to illustrate how they are in support of the business strategy.
+*  Identifying roles and responsibilities: A strategy requires people to take specific actions. Without action, a strategy is a worthless document. In the data strategy, you’ll want to document the different roles that team members will play. Most will be data consumers. These are the employees who access and use data. They will certainly have responsibilities.
+*  Data architecture: This area relates to the processes, systems, and applications that support working with data. Basic areas include defining data storage needs and analysis tools. It also includes items such as a data catalog, a data warehouse where data can be stored and made ready for analysis, and the methods and tools for data pipelines, moving data from a data source to a destination, and related ETL (extract, transform, and load) functions.
+*  Data management: This area is the broad umbrella of activities that manage the full lifecycle of data in an organization. It recognizes that data is a strategic asset and must have the attendant processes, procedures, policies, skills, and tools to ensure it is treated in such a manner. 
