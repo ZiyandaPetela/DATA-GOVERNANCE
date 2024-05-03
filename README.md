@@ -22,7 +22,7 @@
 * A policy to mandate how your organisation is going to manage data.
 * Roles and Responsibities concerning data and processes detailing what needs to be done to manage data.
 
-* What is meant by governance?
+### What is meant by governance?
 * Governance is the manner in which an entity chooses to oversee the control and direction of an area of interest.
 * It typically takes the form of how decisions are made, regulated, and enforced.
 * When entities grow and increase in complexity, formal governance becomes important. Left ungoverned, the possibility of devolving into chaos is very probable.
