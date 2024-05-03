@@ -19,7 +19,7 @@
 * Data governance is a very simple concept about proactively managing yor data in order to support your organization to achieve its strategy and objectives and does this by improving the quality of your data.
 * So data governance is simply a framework that you can use to proactively manage your data.
 * Need to use different policies such as :
-* A pplicy to mandate how your organisation is going to manage data.
+* A policy to mandate how your organisation is going to manage data.
 * Roles and Responsibities concerning data and processes detailing what needs to be done to manage data.
 
 * What is meant by governance?
