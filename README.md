@@ -801,3 +801,21 @@ On the other hand, data analytics is a complete science that involves collecting
 * It is something you experience often in your organization.
 * Monitoring your data strategy means having the right metrics, getting feedback regularly from participants, and auditing related outcomes.
 * All strategies, including your data strategy, must be regularly reviewed and modified as necessary. This is a core characteristic of an agile organization in the 21st century.
+
+
+'''mermaid
+   graph TD
+    Person["User - Fitness User<br/>A person who wants to track their fitness<br/>activities and health metrics"]
+    System["Real-Time Fitness Tracker<br/>Allows users to track fitness activities,<br/>set goals, analyze performance,<br/>and receive recommendations"]
+    System_Ext1["Wearable Devices<br/>Physical fitness trackers that<br/>collect user activity data"]
+    System_Ext2["Health Platforms<br/>Third-party health data platforms<br/>like Apple Health and Google Fit"]
+    System_Ext3["Social Media Platforms<br/>Platforms for sharing achievements<br/>and connecting with friends"]
+    System_Ext4["Nutrition Applications<br/>Third-party apps for tracking<br/>food intake and nutrition"]
+    
+    Person -->|"Uses"| System
+    System_Ext1 -->|"Sends activity data to"| System
+    System -->|"Exchanges health data with"| System_Ext2
+    System -->|"Shares achievements on"| System_Ext3
+    System -->|"Integrates nutrition data from"| System_Ext4
+    Person -->|"Wears and interacts with"| System_Ext1
+'''
