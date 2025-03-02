@@ -803,28 +803,22 @@ On the other hand, data analytics is a complete science that involves collecting
 * All strategies, including your data strategy, must be regularly reviewed and modified as necessary. This is a core characteristic of an agile organization in the 21st century.
 
 
-'''mermaid
+```mermaid
     
     graph TD
-    User["Fitness User<br>(Person who tracks fitness<br>activities and health metrics)"]
-    FitnessTracker["Real-Time Fitness Tracker<br>(Tracks activities, sets goals,<br>analyzes performance)"]
-    Wearables["Wearable Devices<br>(Physical fitness trackers)"]
-    HealthPlatforms["Health Platforms<br>(Apple Health, Google Fit)"]
-    SocialMedia["Social Media Platforms<br>(For sharing achievements)"]
-    NutritionApps["Nutrition Applications<br>(For tracking food intake)"]
+    User[Fitness User] -->|Uses| Tracker[Real-Time Fitness Tracker]
+    Wearables[Wearable Devices] -->|Sends activity data| Tracker
+    Tracker -->|Exchanges health data| Health[Health Platforms]
+    Tracker -->|Shares achievements| Social[Social Media]
+    Tracker -->|Integrates nutrition data| Nutrition[Nutrition Applications]
+    User -->|Wears| Wearables
     
-    User -->|Uses| FitnessTracker
-    Wearables -->|Sends activity data| FitnessTracker
-    FitnessTracker -->|Exchanges health data| HealthPlatforms
-    FitnessTracker -->|Shares achievements| SocialMedia
-    FitnessTracker -->|Integrates nutrition data| NutritionApps
-    User -->|Wears and interacts with| Wearables
+    classDef userClass fill:#4CAF50,stroke:#2E7D32,color:white;
+    classDef trackerClass fill:#2196F3,stroke:#1565C0,color:white;
+    classDef externalClass fill:#FF9800,stroke:#EF6C00,color:white;
+    
+    class User userClass;
+    class Tracker trackerClass;
+    class Wearables,Health,Social,Nutrition externalClass;
 
-    style User fill:#4CAF50,stroke:#2E7D32,color:#fff
-    style FitnessTracker fill:#2196F3,stroke:#1565C0,color:#fff
-    style Wearables fill:#FF9800,stroke:#EF6C00,color:#fff
-    style HealthPlatforms fill:#9C27B0,stroke:#6A1B9A,color:#fff
-    style SocialMedia fill:#E91E63,stroke:#C2185B,color:#fff
-    style NutritionApps fill:#00BCD4,stroke:#00838F,color:#fff
-
-'''
+```
