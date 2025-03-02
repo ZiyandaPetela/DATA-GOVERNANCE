@@ -804,18 +804,27 @@ On the other hand, data analytics is a complete science that involves collecting
 
 
 '''mermaid
-   graph TD
-    Person["User - Fitness User<br/>A person who wants to track their fitness<br/>activities and health metrics"]
-    System["Real-Time Fitness Tracker<br/>Allows users to track fitness activities,<br/>set goals, analyze performance,<br/>and receive recommendations"]
-    System_Ext1["Wearable Devices<br/>Physical fitness trackers that<br/>collect user activity data"]
-    System_Ext2["Health Platforms<br/>Third-party health data platforms<br/>like Apple Health and Google Fit"]
-    System_Ext3["Social Media Platforms<br/>Platforms for sharing achievements<br/>and connecting with friends"]
-    System_Ext4["Nutrition Applications<br/>Third-party apps for tracking<br/>food intake and nutrition"]
     
-    Person -->|"Uses"| System
-    System_Ext1 -->|"Sends activity data to"| System
-    System -->|"Exchanges health data with"| System_Ext2
-    System -->|"Shares achievements on"| System_Ext3
-    System -->|"Integrates nutrition data from"| System_Ext4
-    Person -->|"Wears and interacts with"| System_Ext1
+    graph TD
+    User["Fitness User<br>(Person who tracks fitness<br>activities and health metrics)"]
+    FitnessTracker["Real-Time Fitness Tracker<br>(Tracks activities, sets goals,<br>analyzes performance)"]
+    Wearables["Wearable Devices<br>(Physical fitness trackers)"]
+    HealthPlatforms["Health Platforms<br>(Apple Health, Google Fit)"]
+    SocialMedia["Social Media Platforms<br>(For sharing achievements)"]
+    NutritionApps["Nutrition Applications<br>(For tracking food intake)"]
+    
+    User -->|Uses| FitnessTracker
+    Wearables -->|Sends activity data| FitnessTracker
+    FitnessTracker -->|Exchanges health data| HealthPlatforms
+    FitnessTracker -->|Shares achievements| SocialMedia
+    FitnessTracker -->|Integrates nutrition data| NutritionApps
+    User -->|Wears and interacts with| Wearables
+
+    style User fill:#4CAF50,stroke:#2E7D32,color:#fff
+    style FitnessTracker fill:#2196F3,stroke:#1565C0,color:#fff
+    style Wearables fill:#FF9800,stroke:#EF6C00,color:#fff
+    style HealthPlatforms fill:#9C27B0,stroke:#6A1B9A,color:#fff
+    style SocialMedia fill:#E91E63,stroke:#C2185B,color:#fff
+    style NutritionApps fill:#00BCD4,stroke:#00838F,color:#fff
+
 '''
